@@ -85,6 +85,7 @@ LIST_OF_QUANTITIES
     X(KVAH,kvah,"kVAh",Apparent_Energy,"kilo volt amperes hour")        \
     X(M3C,m3c,"m³°C",Energy,"cubic meter celsius")                      \
     \
+    X(W,w,"W",Power,"Watt")                                             \
     X(KW,kw,"kW",Power,"kilo Watt")                                     \
     X(M3CH,m3ch,"m³°C/h",Power,"cubic meter celsius per hour")          \
     \
